@@ -352,11 +352,11 @@ public class FullStar {
                     JPanel painel = new JPanel();
 
                     painel.setBackground(
-                            new Color(30,30,30)
+                            new Color(30, 30, 30)
                     );
 
                     painel.setLayout(
-                            new GridLayout(6,1)
+                            new GridLayout(6, 1)
                     );
 
                     JLabel titulo = new JLabel(
